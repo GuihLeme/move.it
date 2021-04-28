@@ -12,7 +12,12 @@
 ## Features:
 
 * Diversas tarefas que são apresentadas ao usuário a cada 25 minutos;
-* Sistema de nível. Ao realizar uma tarefa o usuário é recompensado com pontos de experiência que são acumulados para subir de nível
+* Sistema de nível. Ao realizar uma tarefa o usuário é recompensado com pontos de experiência que são acumulados para subir de nível;
+
+## Comandos:
+
+`yarn` para instalar todas as dependencias;
+`yarn start` para rodar o projeto localmente;
 
 ## Live: 
 

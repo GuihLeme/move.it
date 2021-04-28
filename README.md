@@ -16,8 +16,8 @@
 
 ## Comandos:
 
-`yarn` para instalar todas as dependencias;
-`yarn start` para rodar o projeto localmente;
+`yarn` para instalar todas as dependencias; </br>
+`yarn start` para rodar o projeto localmente; </br>
 
 ## Live: 
 
